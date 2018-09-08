@@ -7,6 +7,7 @@ target 'GitReading' do
 
   # Pods for GitReading
   pod 'AFNetworking', '~> 3.0'
+  pod 'SDWebImage', '~> 4.0'
 
   target 'GitReadingTests' do
     inherit! :search_paths
